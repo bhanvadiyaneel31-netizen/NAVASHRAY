@@ -1,0 +1,50 @@
+census_name,households,population,subdistrict,best_match,best_score,candidate_2,score_2,candidate_3,score_3,candidate_4,score_4,candidate_5,score_5,match_status
+Thirunelly,2989,12878,5635,Thirunelli,0.9,Tharuvana,0.526,Muthireri,0.526,Chulliyode,0.5,Athirattukunnu,0.5,HIGH_CONFIDENCE
+Thrissilery,3913,16818,5635,Thrissilery,1.0,Thariode,0.526,Koyilery,0.526,Tholpetty,0.5,Paplassery,0.476,EXACT
+Payyampally,3193,13311,5635,Payyampalli,0.909,Pulpally,0.632,Pambala,0.556,Kappamkolly,0.545,Vengappally,0.545,HIGH_CONFIDENCE
+Mananthavady,8183,34663,5635,Mananthavady,1.0,Manalvayal,0.636,Nadavayal,0.571,Pathivayal,0.545,Meenangadi,0.545,EXACT
+Thavinhal,4209,17840,5635,Tharuvana,0.667,Thonichal,0.667,Thonichal,0.667,Thannikkal,0.632,Pathirachal,0.6,MANUAL_REVIEW
+Periya,2571,11174,5635,Periya,1.0,Pariyaram,0.667,Peruvaka,0.571,Pudiyadam,0.533,Pilacheri,0.533,EXACT
+Thondernad,2652,11752,5635,ponnada,0.588,Ondayangadi,0.571,Thariode,0.556,Tharuvana,0.526,Thonichal,0.526,MANUAL_REVIEW
+Valat,2477,10799,5635,Alattil,0.667,Bavali,0.545,Kundala,0.5,Vimalanagar,0.5,Kalladi,0.5,MANUAL_REVIEW
+Edavaka,3727,16737,5635,Dwaraka,0.714,Peruvaka,0.667,Nadavayal,0.625,Nadakkal,0.533,Mundakai,0.533,MANUAL_REVIEW
+Nalloornad,3812,16928,5635,Kallody,0.588,Kalladi,0.588,Cheekkalloor,0.545,kallara colony,0.522,kallara colony,0.522,MANUAL_REVIEW
+Cherukottur,2540,11462,5635,Cherukattoor,0.783,Cherakkara,0.571,Thettu Road,0.571,Kottoor,0.556,Cherikkolli,0.545,MANUAL_REVIEW
+Panamaram,2916,12683,5635,Panamaram,1.0,Kaniyaram,0.667,Aranamala,0.667,Pariyaram,0.667,Anaappara,0.667,EXACT
+Anchukunnu,4305,19078,5635,Anjukunnu,0.842,Athirattukunnu,0.667,Kaippattukunnu,0.583,Mazhuvannur,0.571,Pallikkunnu,0.571,MANUAL_REVIEW
+Porunnanore,4753,22137,5635,Porur,0.625,Pinangode,0.6,ponnada,0.556,Pozhuthana,0.476,Korome,0.471,MANUAL_REVIEW
+Vellamunda,3946,18069,5635,Vellmunda,0.947,Nellimunda,0.8,Vilambukandam,0.696,edamunda colony,0.583,Nelliyambam,0.571,HIGH_CONFIDENCE
+Kanjirangad,2725,11811,5635,Kanhirangad,0.909,Avilangadu,0.667,Kaniyaram,0.6,Meenangadi,0.571,Karyambadi,0.571,HIGH_CONFIDENCE
+Nadavayal ,3689,15795,5636,Nadavayal,1.0,Padivayal,0.778,Manalvayal,0.737,Nadakkal,0.706,Ambalavayal,0.7,EXACT
+Poothadi,3601,14578,5636,Pozhuthana,0.556,Moolithodu,0.556,Pookode,0.533,Meppadi,0.533,ponnada,0.533,MANUAL_REVIEW
+Pulpalli,6977,28322,5636,Pulpally,0.875,Payyampalli,0.632,Pulinjal,0.625,Pallikkal,0.588,Kalladi,0.533,MANUAL_REVIEW
+Padichira,7152,28970,5636,Padichira,1.0,Pannichal,0.667,Kenichira,0.667,Panichipalam,0.667,Padinjarethara,0.609,EXACT
+Kidanganad,2216,9122,5636,Kanhirangad,0.667,Avilangadu,0.6,Kammana,0.588,Ondayangadi,0.571,Kadaingal colony,0.56,MANUAL_REVIEW
+Irulam,5259,21052,5636,Kattikkulam,0.588,Kaniyaram,0.533,Pariyaram,0.533,Kuzhinilam,0.5,Thinapuram,0.5,MANUAL_REVIEW
+Purakkadi ,5102,21022,5636,Pulikkad,0.706,Lakkidi,0.625,Makkiyad,0.588,Peruvaka,0.588,Mundakai,0.588,MANUAL_REVIEW
+Krishnagiri,3229,12952,5636,Chitragiri,0.571,Kabanigiri,0.571,Sruthi nagar,0.545,Kainatti,0.526,Payingattiri,0.522,MANUAL_REVIEW
+Sulthanbathery,5515,23333,5636,Sultan Bathery,0.963,Sruthi nagar,0.56,Muthanga,0.545,Irumanathoor,0.538,Kulathada,0.522,HIGH_CONFIDENCE
+Kuppadi,6328,26662,5636,Meppadi,0.714,Uppannada,0.625,Kalladi,0.571,Koliyadi,0.533,Kappiset,0.533,MANUAL_REVIEW
+Noolpuzha,3299,14133,5636,Thalappuzha,0.6,Puzhavayal,0.526,Moonanakuzhy,0.476,Puthumala,0.444,ST colony puthiyadam,0.444,MANUAL_REVIEW
+Cheeral,3823,15725,5636,Cheeral,1.0,Arinchermala,0.632,Cheekkalloor,0.632,Cheriyamkolly,0.6,Cheengavallam,0.6,EXACT
+Nenmeni,7507,31225,5636,Venniyodu,0.5,Meenangadi,0.471,Kunjome,0.429,Eachome,0.429,Meppadi,0.429,MANUAL_REVIEW
+Ambalavayal,4117,16988,5636,Ambalavayal,1.0,Manalvayal,0.762,Nadavayal,0.7,Pambala,0.667,Kambalakkad,0.636,EXACT
+Thomattuchal,4392,17984,5636,Thonichal,0.667,Thonichal,0.667,Pathirachal,0.609,Kappunchal,0.545,Veettichal,0.545,MANUAL_REVIEW
+Padinharethara,3645,16146,5637,Padinjarethara,0.929,Panamaram,0.609,Padichira,0.609,Arattuthara,0.56,areekara,0.545,HIGH_CONFIDENCE
+Kuppadithara,2131,9761,5637,Padinjarethara,0.692,Kulathada,0.667,Padichira,0.667,Kottathara,0.636,Appapara,0.6,MANUAL_REVIEW
+Kottathara ,3920,17295,5637,Kottathara,1.0,Arattuthara,0.667,Kulathada,0.632,Kottoor,0.588,Kottappady Part,0.583,EXACT
+Kaniambetta,6647,29363,5637,Kaniyambetta,0.957,Kalpetta,0.632,Kainatti,0.632,Kaniyaram,0.6,Karyambadi,0.571,HIGH_CONFIDENCE
+Muttil North ,2808,12382,5637,Muttil,0.706,Muthireri,0.5,Sruthi nagar,0.455,Kottoor,0.444,Alattil,0.444,MANUAL_REVIEW
+Muttil South,5060,22355,5637,Muttil,0.706,Ambukuthy,0.5,Ambukuthy,0.5,Arattuthara,0.455,Alattil,0.444,MANUAL_REVIEW
+Vengappally,2667,11692,5637,Vengappally,1.0,Kappamkolly,0.636,Pulpally,0.632,Cheengavallam,0.583,Manappatt Colony,0.538,EXACT
+Kavumannam,2358,10106,5637,Kaavumannam,0.952,Kammana,0.706,Ellumannam,0.7,Tharuvana,0.526,Uppannada,0.526,HIGH_CONFIDENCE
+Thariyode,385,1653,5637,Thariode,0.941,Chulliyode,0.632,Vengathode,0.526,Peechamcode,0.5,Vythiri,0.5,HIGH_CONFIDENCE
+Achooranam,2684,11998,5637,Chooralmala,0.667,Aranamala,0.632,Eachome,0.588,Pazhoor,0.588,Kanhirangad,0.571,MANUAL_REVIEW
+Pozhuthana,1571,6406,5637,Pozhuthana,1.0,Muthanga,0.667,Puthumala,0.632,pathanamukku,0.545,Tharuvana,0.526,EXACT
+Kunnathidavaka,2268,10309,5637,Nadavayal,0.609,Kulathada,0.609,Pathivayal,0.583,Kundala,0.571,Nadakkal,0.545,MANUAL_REVIEW
+Chundale,1891,7996,5637,Chundale,1.0,Kundala,0.667,Ancham Mile,0.556,Chulliyode,0.556,Chulika,0.533,EXACT
+Kottappadi (Part),5262,23384,5637,Kottappady Part,0.75,Kottathara,0.6,Kalladi,0.588,Meppadi,0.588,Koliyadi,0.556,MANUAL_REVIEW
+Thrikkaipatta (Part),2063,8551,5637,Kalpetta,0.571,Kainatti,0.571,Kaniyambetta,0.56,Thannikkal,0.522,Cherakkara,0.522,MANUAL_REVIEW
+Muppainad,5187,22892,5637,Uppannada,0.778,Meppadi,0.625,Makkiyad,0.588,Muthanga,0.588,Pinangode,0.556,MANUAL_REVIEW
+Vellarimala,1711,7548,5637,Vellarimala Colony,0.786,Arinchermala,0.609,Nellarimannam Colony,0.6,Aranamala,0.6,Cholamala,0.6,MANUAL_REVIEW
+Kalpetta (M),7519,31580,5637,Kalpetta,1.0,Kappiset,0.625,Kaniyambetta,0.6,Tholpetty,0.588,Kalluvettumthazhe,0.56,EXACT

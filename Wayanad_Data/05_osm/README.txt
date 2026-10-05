@@ -1,0 +1,33 @@
+Map data (c) OpenStreetMap contributors, https://www.openstreetmap.org
+Extracts created by BBBike, https://extract.bbbike.org
+geopackage by https://gdal.org
+
+
+Please read the OSM wiki how to use GeoPackage files.
+
+  https://wiki.openstreetmap.org/wiki/GeoPackage
+
+
+This GeoPackage file was created on: Sat 26 Sep 08:37:41 UTC 2026
+GPS rectangle coordinates (lng,lat): 75.793,11.448 x 76.443,11.981
+Script URL: https://extract.bbbike.org/?sw_lng=75.793&sw_lat=11.448&ne_lng=76.443&ne_lat=11.981&format=geopackage.zip&coords=75.793%2C11.448%7C76.117%2C11.448%7C76.443%2C11.448%7C76.442%2C11.529%7C76.442%2C11.619%7C76.437%2C11.659%7C76.439%2C11.705%7C76.44%2C11.796%7C76.443%2C11.981%7C76.121%2C11.977%7C75.797%2C11.975%7C75.798%2C11.836%7C75.797%2C11.694%7C75.796%2C11.57&city=%E0%AE%B5%E0%AE%AF%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81+%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D%2C+Kerala%2C+India&lang=en
+Name of area: வயநாடு மாவட்டம், Keral
+
+
+We appreciate any feedback, suggestions and a donation!
+You can support us via PayPal or bank wire transfer.
+
+  https://extract.bbbike.org/community.html
+
+You can donate any free amount you want. We are happy for every donation,
+for 5, 10, 20, or 50 Euro. Whatever you think the service is worth for you,
+or you can afford. We need to raise 20 Euro (25 USD) by the end of the day or
+600 Euro (700 USD) per month to cover the server costs.
+Your donation helps to pay for hosting the service. Many thanks!
+
+thanks, Wolfram Schneider
+
+--
+BBBike professional plans: https://extract.bbbike.org/support.html
+Planet.osm extracts: https://extract.bbbike.org
+BBBike Map Compare: https://mc.bbbike.org
